@@ -254,7 +254,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default .nav > li>a:hover,
     .navbar-default .nav>li>a:focus:hover {
-        color: #fff;
+        color: #hotpink;
     }
 
     .navbar-default.affix {
@@ -265,7 +265,7 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .navbar-header .navbar-brand {
         letter-spacing: 0;
-        color: yellowgreen;
+        color: hotpink;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
@@ -280,14 +280,14 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: yellowgreen;
+        color: hotpink;
     }
 }
 
 .btn-default {
-    border-color: #fff;
-    color: #222;
-    background-color: #fff;
+    border-color: #hotpink;
+    color: #000000;
+    background-color: #hotpink;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -338,9 +338,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: yellowgreen;
-    color: #fff;
-    background-color: yellowgreen;
+    border-color: hotpink;
+    color: hotpink;
+    background-color: hotpink;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -352,9 +352,9 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: limegreen;
+    border-color: hotpink;
     color: #fff;
-    background-color: limegreen;
+    background-color: hotpink;
 }
 
 .btn-primary:active,
