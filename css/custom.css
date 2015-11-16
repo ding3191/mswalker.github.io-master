@@ -149,11 +149,11 @@ header .header-content .header-content-inner p {
 	}
 	
 .item-2 {
-	background: url('cats2.jpg');
+	background: url('../img/cats2.jpg');
 	}
 	
 .item-3 {
-	background: url(cats3);
+	background: url('../img/cats3.jpg');
 	}
 		
 .item-1,
