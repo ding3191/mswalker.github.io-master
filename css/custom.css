@@ -280,14 +280,14 @@ header .header-content .header-content-inner p {
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: hotpink;
+        color: limegreen;
     }
 }
 
 .btn-default {
-    border-color: #hotpink;
+    border-color: #limegreen;
     color: #000000;
-    background-color: #hotpink;
+    background-color: #limegreen;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -338,9 +338,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: hotpink;
+    border-color: limegreen;
     color: #000000;
-    background-color: hotpink;
+    background-color: limegreen;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -352,9 +352,9 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: limegreen;
+    border-color: hotpink;
     color: #fff;
-    background-color: limegreen;
+    background-color: hotpink;
 }
 
 .btn-primary:active,
